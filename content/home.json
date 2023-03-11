@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 8000,
       "full_width": false,
       "slides": [
         {
@@ -17,8 +17,8 @@
           "img": "/img/uploads/banner_full_desktop_1.jpg",
           "link": "/headset",
           "alt": "",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
+          "start": "",
+          "end": "",
           "mobile_img": "/img/uploads/banner_full_1-mobile.jpg"
         }
       ]
