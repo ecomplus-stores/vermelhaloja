@@ -10,7 +10,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner_lenin.jpg"
+          "img": "/img/uploads/banner_lenin.jpg",
+          "mobile_img": "/img/uploads/banner_lenin-mobile.jpg"
         },
         {
           "img": "/img/uploads/banner01.jpg",
