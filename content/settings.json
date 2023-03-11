@@ -1,7 +1,7 @@
 {
   "domain": "vermelhaloja.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#020000",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/vermelhaloja",
   "logo": "/img/uploads/logo_loja.png",
   "name": "Loja Vermelha",
-  "short_name": "vermelhaloja",
+  "short_name": "Loja Vermelha",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,9 +18,9 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#ba0909",
   "icon": "/img/icon.png",
   "store_id": 51315,
-  "description": "vermelhaloja",
+  "description": "Loja Vermelha",
   "large_icon": "/img/large-icon.png"
 }
