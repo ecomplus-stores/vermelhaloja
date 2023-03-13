@@ -1,12 +1,12 @@
 {
   "shipping": {
     "show": true,
-    "text": "Via Correios e Transportadoras",
-    "title": "Entregas para todo o Brasil"
+    "text": "Entregas para todo o Brasil via Correios e Transportadoras",
+    "title": ""
   },
   "installments": {
     "show": true,
-    "text": "Até 3x sem juros no cartão"
+    "text": "Pague no cartão em até 3x sem juros"
   },
   "exchange": {
     "show": false,
@@ -14,6 +14,6 @@
   },
   "promo": {
     "show": true,
-    "text": "5% de desconto via Pix!"
+    "text": "5% de desconto via Pix ou Transferência"
   }
 }
