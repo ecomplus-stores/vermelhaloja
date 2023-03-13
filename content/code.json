@@ -1,5 +1,5 @@
 {
-  "css": "  /* Ocultar sku do produto */\n.produto .codigo-produto { display: none; }\n.produto .info-principal-produto .nome-produto { border-bottom: 0; margin: -10px 0 17px; }\n\n/* Ocultar sku do checkout e carrinho */\n.pagina-carrinho .finalizar-compra .tabela-carrinho .produto-info ul li:first-child { display: none; }\n.pagina-carrinho .tabela-carrinho .produto-info ul li:first-child { display: none; }\n.pagina-carrinho .finalizar-compra .tabela-carrinho .produto-info a { font-weight: bold; }\n\n#cabecalho .busca input,\n#cabecalho .busca input:focus {\n  border: 2px solid #f0f0f0;\n}",
+  "css": " .header {\nbackground: #000000;\n}",
   "html_head": "",
   "html_body": "<a href=\"https://wa.me/5511920030652?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n\n   "
 }
