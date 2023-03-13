@@ -1,1 +1,16 @@
 // Add your custom CSS here.
+.top-bar__nav {
+    display: none !important;
+}
+#user-button i, #cart-button i {
+    color: #fff !important;
+}
+#header {
+    background-color: #000;
+}
+.header__nav {
+    padding-top: 0px !important;
+}
+.header__nav--full a {
+    padding: 5px 42px !important;
+}
