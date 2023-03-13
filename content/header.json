@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Pagamentos via Pix com 5% de desconto!",
-    "link": "/promotion",
+    "link": "",
     "color": "#ffffff",
     "background": "#000000"
   },
@@ -16,7 +16,7 @@
     "full_width": true
   },
   "desktop_megamenu": true,
-  "search_input": false,
+  "search_input": true,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
 }
