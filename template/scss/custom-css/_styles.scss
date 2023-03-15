@@ -17,3 +17,65 @@
 #search-bar.d-none {
     display: block !important;
 }
+.header__submenu {
+    z-index: 999 !important;
+}
+span, h1, h2, h3, h4, h5, h6, a, p, b, strong, small, em, body {
+    font-family: Poppins !important
+}
+#cart-count {
+    background-color: var(--secondary);
+}
+.menu__item {
+    display: flex;
+    justify-content: space-between;
+}
+.header__toggler-icon {
+    color: #fff !important;
+}
+@media (min-width: 576px) {
+    .header__logo {
+        max-height: 70px;
+      }   
+}
+.minicart__btn-checkout {
+    background: var(--secondary);
+    border-color: var(--secondary);
+}
+.minicart__btn-cart {
+    background: var(--primary);
+    border-color: var(--primary);
+}
+.app__header {
+    background: var(--primary);
+    * {
+        color: #fff !important
+    }   
+}
+.product__sku, .product__payment {
+    display: none;
+}
+.prices__discount {
+    color: var(--secondary)
+}
+.quantity-selector__label button {
+    background: var(--secondary);
+    border-color:  var(--secondary);
+    color: #fff !important;
+    font-size: 0;
+    width: 100% !important;
+    .i-shopping-bag {
+        font-size: 1.25rem !important;
+    }
+    &::after {
+        content: 'Adicionar ao Carrinho';
+        font-size: 1.25rem !important;
+    }
+}
+#product-actions .mb-3 {
+    border: none !important;
+    padding-bottom: 0 !important;
+    & + article {
+        display: none;
+    }
+}

@@ -118,6 +118,7 @@ if (mainCategories) {
                 <span>
                   <%= subcategory.name %>
                 </span>
+                <%- hasSubmenu ? `<span>+</span>` : '' %>
               </a>
             <% }) %>
           </div>
