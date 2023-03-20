@@ -7,6 +7,7 @@
 }
 #header {
     background-color: #000;
+    border-bottom: none !important;
 }
 .header__nav {
     padding-top: 0px !important;
@@ -19,6 +20,10 @@
 }
 .header__submenu {
     z-index: 999 !important;
+    background-color: #000 !important;
+}
+.shipping-calculator__free-from-value .progress-bar {
+    background-color: var(--success) !important;
 }
 span, h1, h2, h3, h4, h5, h6, a, p, b, strong, small, em, body {
     font-family: Poppins !important
