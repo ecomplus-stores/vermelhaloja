@@ -11,12 +11,9 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [
-      "/canecas?Canecas",
-      "/pinsbroches?Pins/Broches"
-    ],
-    "random": 10,
-    "full_width": true
+    "featured": [],
+    "random": 6,
+    "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,
