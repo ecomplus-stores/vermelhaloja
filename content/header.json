@@ -13,15 +13,15 @@
   "categories_list": {
     "featured": [
       "/canecas?Canecas",
+      "/quadros?Quadros",
+      "/pinsbroches?Pins/Broches",
+      "/azulejos?Azulejos",
       "/estatuetas?Estatuetas",
       "/bones?Bonés",
-      "/azulejos?Azulejos",
       "/posta-copos?Porta Copos",
       "/camisetas?Camisetas",
       "/bandeiras?Bandeiras",
-      "/livros?Livros",
-      "/quadros?Quadros",
-      "/pinsbroches?Pins/Broches"
+      "/livros?Livros"
     ],
     "random": 10,
     "full_width": true
