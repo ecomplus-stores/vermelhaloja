@@ -11,7 +11,16 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/canecas?Canecas",
+      "/estatuetas?Estatuetas",
+      "/bones?Bonés",
+      "/azulejos?Azulejos",
+      "/posta-copos?Porta Copos",
+      "/camisetas?Camisetas",
+      "/bandeiras?Bandeiras",
+      "/livros?Livros"
+    ],
     "random": 10,
     "full_width": true
   },
