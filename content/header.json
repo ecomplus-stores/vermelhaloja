@@ -20,7 +20,8 @@
       "/camisetas?Camisetas",
       "/bandeiras?Bandeiras",
       "/livros?Livros",
-      "/quadros?Quadros"
+      "/quadros?Quadros",
+      "/pinsbroches?Pins/Broches"
     ],
     "random": 10,
     "full_width": true
