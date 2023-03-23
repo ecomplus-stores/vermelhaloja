@@ -19,7 +19,8 @@
       "/posta-copos?Porta Copos",
       "/camisetas?Camisetas",
       "/bandeiras?Bandeiras",
-      "/livros?Livros"
+      "/livros?Livros",
+      "/quadros?Quadros"
     ],
     "random": 10,
     "full_width": true
