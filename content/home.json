@@ -8,12 +8,6 @@
       "full_width": false,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_lenin.jpg",
-          "mobile_img": "/img/uploads/banner_lenin-mobile.jpg"
-        },
-        {
           "img": "/img/uploads/banner_full_desktop_1.jpg",
           "link": "/headset",
           "alt": "",
