@@ -29,7 +29,7 @@
     "bb": false,
     "visa": true,
     "boleto": true,
-    "aura": false,
+    "aura": true,
     "banrisul": false,
     "elo": true,
     "hipercard": true,
