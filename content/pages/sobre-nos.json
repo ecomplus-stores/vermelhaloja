@@ -2,5 +2,11 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "A﻿ Loja Vermelha foi criada em meados de 2020 com a ideia de se tornar em pequeno espaço e foco de resistência com produtos que representem as pessoas do nosso campos de luta.\n\nA﻿ loja é administrada por apenas uma pessoa que cria as artes, produz os itens, cuida da logística e também faz o atendimento aos clientes pré e pós venda.\n\nTudo isso é possível graças aos 10 anos de experiência com lojas virtuais e vendas na internet.\n\nAgradeço à todos que nos apoiam e também apoiam os pequenos comerciantes criativos. \n\nS﻿eguimos na luta!\n\nM﻿arcus Campos\n\nL﻿oja Vermelha",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": false
+    }
+  ]
 }
