@@ -5,11 +5,11 @@
     {
       "type": "banner-slider",
       "autoplay": 8000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/banner_full_desktop_1.jpg",
-          "link": "/headset",
+          "link": "",
           "alt": "",
           "start": "",
           "end": "",
