@@ -22,14 +22,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "autoplay": "",
+      "page": 1,
+      "title": "Lançamentos",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "views",
-      "title": "",
       "headless": false,
+      "type": "collection-shelf",
       "limit": 12,
-      "page": 1
+      "collection_id": null,
+      "sort": "news"
     }
   ]
 }
