@@ -6,7 +6,11 @@
     "background": "#dc0707"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Blog Diário Vermelho"
+      }
+    ],
     "phone_wpp": false,
     "socials": true
   },
