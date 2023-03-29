@@ -6,7 +6,28 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "url": "https://vermelhaloja.netlify.app/pages/sobre-nos",
+        "text": "Sobre nós"
+      },
+      {
+        "url": "https://vermelhaloja.netlify.app/pages/privacidade",
+        "text": "Política de Privacidade"
+      },
+      {
+        "text": "Termos de Uso",
+        "url": "https://vermelhaloja.netlify.app/pages/termos"
+      },
+      {
+        "text": "Trocas e Devoluções",
+        "url": "https://vermelhaloja.netlify.app/pages/trocas"
+      },
+      {
+        "text": "Contato",
+        "url": "https://vermelhaloja.netlify.app/pages/contato-teste"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
