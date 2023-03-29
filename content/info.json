@@ -9,8 +9,8 @@
     "text": "Pague no cartão em até 3x sem juros"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Site Seguro. Seus dados e pedidos protegidos."
   },
   "promo": {
     "show": true,
