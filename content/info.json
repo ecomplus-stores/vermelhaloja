@@ -9,11 +9,11 @@
     "text": "Pague no cartão em até 3x sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Site Seguro. Seus dados protegidos."
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "5% de desconto via Pix"
   }
 }
