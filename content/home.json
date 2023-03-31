@@ -18,6 +18,20 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner_tarja_p4.png"
+        },
+        {
+          "img": "/img/uploads/banner_tarja_p2.png"
+        },
+        {
+          "img": "/img/uploads/banner_tarja_p3.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
