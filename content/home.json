@@ -18,23 +18,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/frete.png"
-        },
-        {
-          "img": "/img/uploads/cartao.png"
-        },
-        {
-          "img": "/img/uploads/pix.png"
-        },
-        {
-          "img": "/img/uploads/seguro.png"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
