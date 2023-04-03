@@ -84,3 +84,6 @@ span, h1, h2, h3, h4, h5, h6, a, p, b, strong, small, em, body {
         display: none;
     }
 }
+.header__search #search-input::-webkit-search-cancel-button {
+    margin-right: 30px;
+}
