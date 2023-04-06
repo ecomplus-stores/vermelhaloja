@@ -25,10 +25,6 @@
       "enabled": true
     },
     {
-      "type": "product-specifications",
-      "enabled": true
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
