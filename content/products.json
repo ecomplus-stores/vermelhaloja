@@ -5,6 +5,10 @@
       "enabled": true
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
@@ -22,10 +26,6 @@
     },
     {
       "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "info-bar",
       "enabled": true
     }
   ]
