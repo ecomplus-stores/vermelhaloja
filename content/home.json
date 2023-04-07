@@ -8,12 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner_full_desktop_1.jpg",
+          "img": "/img/uploads/banner_desk.jpg",
           "link": "",
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner_full_1-mobile.jpg"
+          "mobile_img": "/img/uploads/banner_cel.jpg"
         }
       ]
     },
