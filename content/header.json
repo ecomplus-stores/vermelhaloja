@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Pagamentos via Pix com 5% de desconto!",
+    "text": "Pagamentos via Pix com 10% de desconto!",
     "link": "",
     "color": "#ffffff",
     "background": "#dc0707"
@@ -29,5 +29,6 @@
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": true,
+  "centralized_logo": true
 }
