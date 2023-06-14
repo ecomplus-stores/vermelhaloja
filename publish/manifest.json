@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.50c05bcef1268cdb5425d4334f5e83dc.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.6b1e35a7592c47dab8c62bbe8ce90c11.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.11fc0b06cc192e8063bee1872d04c88e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c97684546e668402b7282447f6771137.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.80aad311963c1e73ea59851d7bcbd02a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Loja Vermelha",
+  "short_name": "Loja Vermelha",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A loja para quem está à esquerda na luta!",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
